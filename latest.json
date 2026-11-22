@@ -2,17 +2,20 @@
   "payload": {
     "schema": 1,
     "channel": "stable",
-    "build": 3,
-    "version": "0.0.2",
-    "size": 70057192,
-    "sha256": "ec5c4daca8c618647b50ddb11ff84422999732189b9082d43fa97801c8dfb004",
+    "build": 4,
+    "version": "0.0.3",
+    "size": 92120715,
+    "sha256": "acfcd87a31b63f5b082e40cb6b9526054718fde0b14d6717d39b5d480a784897",
     "urls": [
-      "https://87.199.209.48/updates/stable/mmm-3.zip",
-      "https://github.com/jaspin14/MMM-Farm-Updates/releases/download/v0.0.2/mmm-3.zip",
-      "https://drive.usercontent.google.com/download?id=1OSsGWjQmAVzXEVs58fTRqJgcBEFyvA_q&export=download&confirm=t"
+      "https://87.199.209.48/updates/stable/mmm-4.zip",
+      "https://github.com/jaspin14/MMM-Farm-Updates/releases/download/v0.0.3/mmm-4.zip",
+      "https://drive.usercontent.google.com/download?id=1N8ZQwfLu3dRQQ-iSmfCWQZcAUZ_75Z8A&export=download&confirm=t"
     ],
     "files": {
-      "MMM.exe": "91c85dbeb27c356e0e5b84f7566eee6c03a980cf6bc54606f0c0d22f044dcabf"
+      "MMM.exe": "5e552a3db50e804fbfb5de6808550403e63d5e1d36f91f227320cfbac6fdbcf0",
+      "wb/WB.exe": "0bd25242c4ab705daeea2cf2c2640664915358b4e0e87915c3ec265dcb41139b",
+      "wb-local-build/WB.exe": "0bd25242c4ab705daeea2cf2c2640664915358b4e0e87915c3ec265dcb41139b",
+      "wb-local-build.json": "3ab75439792330e5c44e709515109cf3ab2daf3f6a0f8d3cd321cab845714499"
     },
     "inventory": {
       "app/flet/1": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -114,6 +117,7 @@
       "app/flet/zlib.dll": "82d5bf175cf882ac9afc1558b416e674606d055966bc09529076b28a498fc0e4",
       "app/idle.exe": "1c089e82f97f46d4eb8375462ed8d041bf0ba4c6c23a0101edd9b0b04b1db500",
       "app/spoofer.exe": "814c82213bc30f7b6ec98ff2b1dc013061bf0282d6ee4a182cd1b2d6c0e5f2ae",
+      "MMM.exe": "5e552a3db50e804fbfb5de6808550403e63d5e1d36f91f227320cfbac6fdbcf0",
       "Images/mmm-gaben-background.png": "f56fd0548d87028778c18883802868fea0e6378dcb8bd1f0e5a0e76e03d494c0",
       "Images/mmm-gaben-mark.png": "920c71ffd928f4d296ac27176bb42dc48a4c2c50b9e8a8b57a33683f75be8e1a",
       "Images/mmm-gaben.ico": "99a173118e4c6a873db529e946f73e424af0ff0156e081017c19d2337d2ec822",
@@ -125,7 +129,6 @@
       "Images/telegram-stickers/gabe-king.webp": "cf2d3bfd27269f720ebca3cc9a1a3b576b44c686e8dba716a23c65ec28e15cac",
       "Images/telegram-stickers/gabe-server.webp": "811bc048274201a076542b3f1366bdb350004af251a2f87768bc51e565caa067",
       "Images/template.png": "b453b6266af6ff87e2dbe39f710ce4660a7bd10e473a921d8e911e8c691d033a",
-      "MMM.exe": "91c85dbeb27c356e0e5b84f7566eee6c03a980cf6bc54606f0c0d22f044dcabf",
       "updater/updater.exe": "5067ba1cc9376dd90ac11396e58a26c1adeba192a75a555519e6e1ac3584eced",
       "wb/bvh/ar_baggage.bvh.gz": "cc32668d0b0c91f29c799eb862994be74e2df193d8682faee7626d30493f445f",
       "wb/bvh/ar_pool_day.bvh.gz": "34628ebcd88bba69769594a2616dc02e1fde920dc85448f425cf3c2f08a43a4a",
@@ -204,12 +207,12 @@
       "wb/way/de_train.way": "1501faf0f365a505c10cf2048800cac0dd93858cb6c8d4591c282da72a849d6e",
       "wb/way/de_vertigo.way": "c92206a9a661227cdfd82f0814beee6efe02ffb2cde37b25983d9ba5f574df8d",
       "wb/way/de_warden.way": "eeebcce6c8410fd5576efdc6d179b4818d788ede2617430d68a6b327ebfff56e",
-      "wb/WB.exe": "7d6639e89e67d85c7d5c2ccc7908385506bb20ec279705f32645d6d1a9e68197",
+      "wb/WB.exe": "0bd25242c4ab705daeea2cf2c2640664915358b4e0e87915c3ec265dcb41139b",
       "wb/WB.exe.config": "1693e61b4e78357c57d9530993df27811482026de08a0f3710034a2a4e3bb036",
-      "wb-local-build/WB.exe": "7d6639e89e67d85c7d5c2ccc7908385506bb20ec279705f32645d6d1a9e68197",
+      "wb-local-build/WB.exe": "0bd25242c4ab705daeea2cf2c2640664915358b4e0e87915c3ec265dcb41139b",
       "wb-local-build/WB.exe.config": "1693e61b4e78357c57d9530993df27811482026de08a0f3710034a2a4e3bb036",
-      "wb-local-build.json": "27f19d0f21b9ed4d9eab1980fe975ed6a6a3b0d1c3ea9925c262215aa10f2257"
+      "wb-local-build.json": "3ab75439792330e5c44e709515109cf3ab2daf3f6a0f8d3cd321cab845714499"
     }
   },
-  "signature": "gxvPKqPZpL76FNz18xtka2rWFX8zGm02L0NImYixEERl9wziy8Q/4oEfFU5/Mr/kjueN6p+L/VRNb4pXRUOOoShBUhDYj4SMGc7pbkWtVGADj9rWx2epG3fD17dt3YT7s6S4RRvAEk8bgWiMiy1AKKKQfLtP4atlgSighglgPT63Nd112YdTY3eChR/4wmZgcQCE5Qj3Fc4XDjm4dRry0/FrWSXLA1jnMCKShDTk1GnL83zi79TpIfxg1Z+lR4EkE6EyIrqlJx2x8Fj4hmdU8IUUHc7dDQEI1vGcRjPcAnfAuywjPQgvPsvtVMbgqLmu4FU0nw8rVvr5cDSzNtAlLwTnR5GuNA1eafzPdz65jd+ldxXdovljtGfrDRneSDUUIxcZOlUjzlGf/fnZJavPM5EWW01Mu7X7JAEqwOm0VqBRPmRQvJKwjd1lLPIV/AkswQ74Gihhs2zPkJSu3yqq4G1oBKwkQB9cL8gu+hP0DCul6UtW3EV11P6OtuUZxg+g"
+  "signature": "CczDDexRNbme8XFPRIp+VaU/SkpkFpEc4QBYzjUH0fdbu7vd0osN79SnWn7qESk0l7+n17122EAuHkyoqXwIHMlxqxePyu9QEwuIysRMijn3YGYeJyDfZUiOO8jL4GLb7OHIbNh5mZvqk1IZNCrvWHVCQRcRN218zPr8QVdwAKCi2JXRx1+IfSwfjJAMligGxksfzr36JBEpzA0gzqJZVncAcdzOTpk2nF3UYhb7TR81wkCNUWvaNerFCCqu0Do40tYhWqcrJFHQ2AcFnli7p2FJg8gm6SPhqn0mKs5d+IXvdekC4CK4ny6tkPDVtUUP/d7vAA011PJDoD6hi3VXURSmZSK5wrbHrFNrIOSNU+w7FltIHQC0u51rzN82Y1pfqLRdpIZ2mnBGrazo1Op8A+JE7o4Q8bQsgekfK5w6vLHKgxt40o7eXOfci8HF9wvSk0b502iZV66OGxvN5zamcY2eUdN7lsfpYwoO+bRd4Xh5Vw588awMzA1qMDYy6AmX"
 }
